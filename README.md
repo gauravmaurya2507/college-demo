@@ -1,3 +1,3 @@
 # college-demo
 <br>
-Author-Gaurav Maurya
+Author-Gaurav (Sadanand)
